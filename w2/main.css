@@ -1,14 +1,16 @@
-body {
-    background-color: #e5e5e5;
-    color: #191919;
+html, body {
+    margin: 0;
+    padding: 0;
 }
 
 a {
-    color: #35a7ff;
+    text-decoration: none;
 }
+
 a:visited {
-    color: #f15025;
+    color: purple;
 }
+
 a:hover {
-    color: #fc8f71;
+    color: #FF5733;
 }
